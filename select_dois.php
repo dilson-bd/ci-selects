@@ -1,3 +1,4 @@
+<?php
 /*MODEL*/
 public function select_andamentos()
 {           
